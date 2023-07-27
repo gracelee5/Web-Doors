@@ -1,4 +1,4 @@
 # Web-Doors
 '프론트엔드 개발을 시작하려고 해' 문이 있는 페이지 클론 코딩 실습
 
-[link]("file:///Users/gracelee/Desktop/Web/doors/index.html")
+![Alt text](./스크린샷 2023-07-27 오후 11.41.06.png)
